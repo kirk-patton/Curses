@@ -1,0 +1,4 @@
+Curses
+======
+
+Python Curses playground
